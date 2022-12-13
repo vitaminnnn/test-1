@@ -1,0 +1,53 @@
+export const TRANSLATIONS_UA = {
+  navigationLinkCreatives: 'Креативи',
+  navigationLinkApplications: 'Додатки',
+  navigationLinkSelections: 'Мої підбірки',
+  navigationLinkPartners: 'Партнери',
+  navigationLinkTelegram: 'Телеграм канал',
+  navigationLinkTelegram2: 'Підтримка в Telegram',
+  navigationLinkSupport: 'Підтримка',
+  login: 'Логін',
+  registration: 'Реєстрація',
+  partnersTitle: 'Корисносні для арбітражника',
+  partnersDescription:
+    'Тут ми збираємо сервіси для арбітража, які економлять зусилля, час та гроші. Більшість має промокоди та приємні знижки, щоб ви думали за профіт, а не за витрати.',
+  partnersSubDescription: 'Додаванням займається',
+  partnersModalCategories: 'Категорії',
+  partnersModalPromocode: 'Промокод',
+  partnersChipAll: 'Всі',
+  authModalTitle: 'Увійти в обліковий запис',
+  loginFB: 'Вхід через Facebook',
+  loginGoogle: 'Вхід через Google',
+  loginModalSubText:
+    'Натискаючи кнопку "Увійти через Facebook або Google" або \n    "Увійти", ви погоджуєтесь з нашими',
+  modalRemeberPassword: "Я не пам'ятаю пароль",
+  logout: 'Вийти',
+  or2: 'або',
+  termsOfContidions: 'Умови надання сервісу',
+  modalRegisterTitle: 'Реєстрація облікового запису',
+  registerModalSubText:
+    'Натискаючи кнопку "Зареєструватися через Facebook або google" або "Зареєструватися", ви погоджуєтесь з нашими',
+  userBalanceTitle: 'Баланс',
+  userBalanceInfo: 'Ваш реферальний баланс',
+  userBalanceDescription:
+    'Ви можете замовити виведення реферального балансу та дізнатися деталі реферальної програми у своєму профілі.',
+  userBalanceButton: 'Дізнайтеся деталі',
+  userListProfile: 'Профіль',
+  userListPurchase: 'Доступ до покупки',
+  userSubscriptionTitle: 'Вільний режим',
+  userSubscriptionDescriptionTop1:
+    'До цього дня ви можете користуватися послугою без обмежень.',
+  userSubscriptionDescriptionTop2:
+    'Але про всяк випадок варто продовжити доступ заздалегідь ;)',
+  userSubscriptionDescriptionBottom1: 'Ви маєте обмежений доступ до послуги.',
+  userSubscriptionDescriptionBottom2:
+    'Щоб зняти всі обмеження, необхідно придбати повний доступ.',
+  footerLinkTerms: 'Умови використання',
+  footerLinkPrivacy: 'Політика конфіденційності',
+  footerLinkCookies: 'Політика Cookies',
+  headerSubscriptionPayedTitle: 'Повний доступ працює до',
+  headerSubscriptionExtendButton: 'Розширити доступ',
+  headerSubscriptionPurchaseButton: 'Придбайте повний доступ',
+  headerSubscriptionDay: 'день',
+  headerSubscriptionDemo: 'Демо-доступ',
+}
