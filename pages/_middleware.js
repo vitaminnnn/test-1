@@ -9,7 +9,7 @@ export function middleware(req, res) {
 
   if (token) {
     url.searchParams.delete('token');
-    NextResponse.redirect(url).cookie(TOKEN_KEY, token);
+    return NextResponse.redirect(url).cookie(TOKEN_KEY, token);
     // return NextResponse.redirect(`http://localhost:3000/ru/${redirect_url}`)
     // changed = true
   }
